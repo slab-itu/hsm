@@ -1,1 +1,1 @@
-This code is to reproduce the results of paper entitled "Classification of Scientific Papers on the Basis of Abstract Relevance in Accordance with Full Text using Hybrid Summarization Model" submitted to JCDL 2017 conference
+This code is to reproduce the results of article entitled "Quality Classification of Scientific Papers using Hybrid Summarization Model".
