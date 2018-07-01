@@ -1,1 +1,1 @@
-This code is to reproduce the results of article entitled "Quality Classification of Scientific Papers using Hybrid Summarization Model".
+This repository contains data and code to reproduce results presented in paper entitled "Quality Classification of Scientific Publications using Hybrid Summarization Model" submitted to ICADL 2018.
